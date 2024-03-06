@@ -1,0 +1,19 @@
+.banner {
+  background: url("https://img.freepik.com/premium-photo/modern-dark-leather-desk-with-mockup-place-keyboard-black-background-top-view_67155-16371.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 25%;
+  padding-bottom: 25%;
+  color: #fff;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+.section {
+  padding-top: 40%;
+}
